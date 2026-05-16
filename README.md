@@ -1,36 +1,27 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# please-sleep
 
-## Getting Started
+A tiny intervention for developers who accidentally turn “just one more thing” into **2 AM**.
 
-First, run the development server:
+## What is this?
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+A behavioral-intervention landing page built with **Next.js + Tailwind** to help people sleep earlier and more consistently.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Features:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Live clock** — yes, it’s late.
+- **Bedtime countdown** — optimism meets arithmetic.
+- **Consequence forecasts** — tomorrow-you deserves context.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Philosophy
 
-## Learn More
+Not a wellness app.
+Not productivity propaganda.
+Not motivational fluff.
 
-To learn more about Next.js, take a look at the following resources:
+Just a calm, near-black page that quietly asks:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+> “Are you sure tomorrow-you approved this?”
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Built for developers who trade sleep for bugs, curiosity, side projects, or doomscrolling.
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+**Mission:** change the midnight decision.
